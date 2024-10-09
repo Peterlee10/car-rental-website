@@ -1,0 +1,38 @@
+
+body {
+    background: radial-gradient(orange, white);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     margin: 0;
+     padding: 0;
+     font-size: 18px;
+  }
+  
+  button {
+    background-color: orange;
+    border: none;
+    font-size: 12px;
+    color: white;
+    border-radius: 22px;
+    padding: 8px 36px 8px 36px;
+  }
+  
+  #main {
+    margin-top: 200px;
+    width: 400px;
+  }
+  
+  #sub-set {
+    width: 400px;
+    margin-top: 200px;
+  }
+  
+  .page {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  #lamb-car {
+    width: 400px;
+  }
+  
